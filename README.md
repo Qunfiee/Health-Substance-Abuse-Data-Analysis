@@ -11,6 +11,9 @@ This report aims to examine hospitalization programs, key factors driving primar
 - The client do not want an Intro Page but suggests instead vertical/horizontal navigation bars or pop-up menu.
 - The report should not be scrollable or fancy shaped, and  the report must fit well within a page. Preferred size 16:9.
 
+## Data Modelling
+No modelling was required since we just need just a table for the analysis.
+
 ## Insights
  The dataset has details about different treatment plans, including **Usual Care** and **Intervention programs**. The analysis showed that:
 1. Enrollment in Usual Care programs is more prevalent among individuals seeking treatment, comprising 70% of the patient population, whereas Intervention programs cater to 30% of individuals, primarily those with milder substance abuse issues seeking treatment.
